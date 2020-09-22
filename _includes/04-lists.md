@@ -4,6 +4,4 @@
   * ITEM3.1
   * ITEM3.2
   
-  1. ITEM1
-  2. ITEM2
-  3. ITEM3
+
