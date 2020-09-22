@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+* ITEM1
+* ITEM2
+* ITEM3
+  * ITEM3.1
+  * ITEM3.2
+  
+  1. ITEM1
+  2. ITEM2
+  3. ITEM3
